@@ -2,7 +2,7 @@
 date = ""
 draft = true
 layout = "blocks"
-title = ""
+title = "Test Page"
 [[page_sections]]
 block = "header-1"
 logo = ""
