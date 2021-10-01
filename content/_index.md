@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -16,9 +16,9 @@ page_sections:
   - link_url: "#"
     link_text: Team
   cta:
-    link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    link_text: Download
-    open_in_new_tab: true
+    link_url: "#"
+    link_text: Donate
+    open_in_new_tab: false
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
